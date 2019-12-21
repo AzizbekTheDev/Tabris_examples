@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget
+ id="com.azizbek.demo"
+ version="0.1.0"
+ xmlns="http://www.w3.org/ns/widgets"
+ xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Hello world in Tabris!</name>
+  <description>
+    Example Tabris.js App what created by Masharibov Azizbek
+  </description>
+  <author email="azizbekmasharibov@gmail.com">
+    Masharibov Azizbek
+  </author>
+  <plugin name="cordova-plugin-diagnostic"
+ spec="4.0.12" />
+  <preference name="EnableDeveloperConsole" value="$IS_DEBUG" />
+</widget>
